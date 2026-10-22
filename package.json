@@ -1,0 +1,13 @@
+{
+  "name": "firibstop-uz-offline-shield",
+  "version": "2.3.0",
+  "private": true,
+  "description": "FiribStop UZ live cyber news and offline-first regional map",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/security-database.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

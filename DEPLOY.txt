@@ -1,0 +1,3 @@
+FiribStop 2.3.0
+
+For a live HTTPS deployment, push this project to GitHub and import it as a Render Web Service. The included render.yaml defines Node runtime, npm start, and /api/health. GitHub Pages alone cannot run server.js.
